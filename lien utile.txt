@@ -1,0 +1,2 @@
+https://javascript.info/import-export
+https://www.tutorialspoint.com/typescript/typescript_arrays.htm
